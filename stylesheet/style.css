@@ -1,0 +1,141 @@
+body{
+    background-color: aquamarine;
+    background-image: url(/img/cpu.jpg);
+    font-family: monospace;
+    
+}
+
+nav{
+    background: teal;
+    height: 80px;
+    width: 100%;
+}
+
+section{
+    height: 68vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+
+article{
+    background-size: cover;
+    background-position: center;
+    flex: 1;
+    padding: 1rem;
+    display: flex;
+    align-items: flex-end;
+    color: white;
+    font-size: 50%;
+    transition: 1s;
+}
+label.logo{
+    color: white;
+    font-size: 31px;
+    line-height: 80px;
+    font-weight: bold;
+    float: left;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    
+}
+
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+a.active,a:hover{
+    background: #1b9bff;
+    transition: .5s;
+
+}
+
+article:hover{
+    flex: 3;
+    font-size: 150%;
+}
+
+
+.one{background-image: url("/img/1v1.png");}
+.two{background-image: url("/img/slope.png")}
+section{
+    height: 68vh;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+
+article{
+    background-size: cover;
+    background-position: center;
+    flex: 1;
+    padding: 1rem;
+    display: flex;
+    align-items: flex-end;
+    color: white;
+    font-size: 50%;
+    transition: 1s;
+}
+
+article:hover{
+    flex: 3;
+    font-size: 150%;
+}
+
+a:hover{
+    font-size: 110%;
+}
+
+.one{ background-image: url("/img/1v1.png"); }*/
+.two{background-image: url("/img/slope.png")}
+.three{background-image: url("/img/basketball-io.png"); }
+.four{background-image: url("/img/drift.png");}
+.run{background-image: url("/img/run-3.jpg");}
+.moto{background-image: url(/img/moto-x3m.jpg);}
+.happy{background-image: url(/img/happywheels.png);}
+.hole{background-image: url(/img/hole-io.jpg);}
+.eggy{background-image: url(/img/eggycar.jpg);}
+.cookie{background-image: url(/img/Cookie.png);}
+.vex{
+    background-image: url(/img/vex-5.jpg);
+    color: black;
+}
+.undertext{
+    color: black;
+}
+.car{
+    background-image: url(/img/car.avif);
+}
+
+.vex a:hover{
+    font-size: 110%;
+    transition: .5s;
+}
+
+
+.logo{
+    color: white;
+    font-size: 150%;
+}
+
+.top{
+    font-size: 150%;
+    color: white;
+}
+.select{
+    color: white;
+}
+p {
+    color: white;
+}
