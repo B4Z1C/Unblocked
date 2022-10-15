@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    background-image: url(cpu.JPG);
+    background-image: url(/img/cpu.JPG);
     font-family: monospace;
     
 }
@@ -68,8 +68,8 @@ article:hover{
 }
 
 
-.one{background-image: url("/1v1.PNG");}
-.two{background-image: url("/slope.PNG")}
+.one{background-image: url("/img/1v1.png");}
+.two{background-image: url("/img/slope.PNG")}
 section{
     height: 68vh;
     background-color: rgb(0, 0, 0);
@@ -97,25 +97,25 @@ a:hover{
     font-size: 110%;
 }
 
-.one{ background-image: url("/1v1.PNG"); }*/
-.two{background-image: url("/slope.PNG")}
-.three{background-image: url("/basketball-io.PNG"); }
-.four{background-image: url("/drift.PNG");}
-.run{background-image: url("/run-3.JPG");}
-.moto{background-image: url(/moto-x3m.JPG);}
-.happy{background-image: url(/happywheels.PNG);}
-.hole{background-image: url(/hole-io.JPG);}
-.eggy{background-image: url(/eggycar.JPG);}
-.cookie{background-image: url(/Cookie.PNG);}
+.one{ background-image: url("/img/1v1.PNG"); }*/
+.two{background-image: url("/img/slope.PNG")}
+.three{background-image: url("/img/basketball-io.PNG"); }
+.four{background-image: url("/img/drift.PNG");}
+.run{background-image: url("/img/run-3.JPG");}
+.moto{background-image: url(/img/moto-x3m.JPG);}
+.happy{background-image: url(/img/happywheels.PNG);}
+.hole{background-image: url(/img/hole-io.JPG);}
+.eggy{background-image: url(/img/eggycar.JPG);}
+.cookie{background-image: url(/img/Cookie.PNG);}
 .vex{
-    background-image: url(/vex-5.JPG);
+    background-image: url(/img/vex-5.JPG);
     color: black;
 }
 .undertext{
     color: black;
 }
 .car{
-    background-image: url(/car.avif);
+    background-image: url(/img/car.avif);
 }
 
 .vex a:hover{
