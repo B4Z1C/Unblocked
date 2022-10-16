@@ -68,7 +68,7 @@ article:hover{
 }
 
 
-.one{background-image: url("/img/1v1.png");}
+.one{background-image: url("https://github.com/B4Z1C/Unblocked/blob/main/img/1v1.png?raw=true");}
 .two{background-image: url("/img/slope.PNG")}
 section{
     height: 68vh;
@@ -97,7 +97,7 @@ a:hover{
     font-size: 110%;
 }
 
-.one{ background-image: url("/img/1v1.PNG"); }*/
+.one{ background-image: url("https://github.com/B4Z1C/Unblocked/blob/main/img/1v1.png?raw=true"); }*/
 .two{background-image: url("/img/slope.PNG")}
 .three{background-image: url("/img/basketball-io.PNG"); }
 .four{background-image: url("/img/drift.PNG");}
