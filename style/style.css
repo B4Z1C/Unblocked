@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    background-image: url(/img/cpu.JPG);
+    background-image: url(/img/cpu.jpg);
     font-family: monospace;
     
 }
@@ -113,17 +113,17 @@ a:hover{
     font-size: 110%;
 }
 
-.one{ background-image: url("img/1v1.PNG"); }
+.one{background-image: url("img/1v1.png");}
 .two{background-image: url("img/slope.png")}
-.three{background-image: url("img/basketball-io.PNG");}
-.four{background-image: url("img/drift.PNG");}
-.run{background-image: url("/img/run-3.JPG");}
-.moto{background-image: url(img/moto-x3m.JPG);}
-.happy{background-image: url(img/happywheels.PNG);}
-.hole{background-image: url(img/hole-io.JPG);}
-.eggy{background-image: url(/mg/eggycar.JPG);}
-.cookie{background-image: url(img/Cookie.PNG);}
-.vex{background-image: url(img/vex-5.JPG); color: black;}
+.three{background-image: url("img/basketball-io.png");}
+.four{background-image: url("img/drift.png");}
+.run{background-image: url("/img/run-3.jpg");}
+.moto{background-image: url(img/moto-x3m.jpg);}
+.happy{background-image: url(img/happywheels.png);}
+.hole{background-image: url(img/hole-io.jpg);}
+.eggy{background-image: url(/mg/eggycar.jpg);}
+.cookie{background-image: url(img/Cookie.png);}
+.vex{background-image: url(img/vex-5.jpg); color: black;}
 .undertext{color: black;}
 .car{background-image: url(img/car.avif);}
 .vex a:hover{font-size: 110%;transition: .5s;}
