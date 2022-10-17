@@ -1,6 +1,6 @@
 body{
     background-color: aquamarine;
-    background-image: url(/img/cpu.jpg);
+    background-image: url(img/cpu.jpg);
     font-family: monospace;
     
 }
@@ -117,11 +117,11 @@ a:hover{
 .two{background-image: url("img/slope.png")}
 .three{background-image: url("img/basketball-io.png");}
 .four{background-image: url("img/drift.png");}
-.run{background-image: url("/img/run-3.jpg");}
+.run{background-image: url("img/run-3.jpg");}
 .moto{background-image: url(img/moto-x3m.jpg);}
 .happy{background-image: url(img/happywheels.png);}
 .hole{background-image: url(img/hole-io.jpg);}
-.eggy{background-image: url(/mg/eggycar.jpg);}
+.eggy{background-image: url(img/eggycar.jpg);}
 .cookie{background-image: url(img/Cookie.png);}
 .vex{background-image: url(img/vex-5.jpg); color: black;}
 .undertext{color: black;}
