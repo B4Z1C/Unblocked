@@ -68,19 +68,19 @@ article:hover{
 }
 
 
-.one{ background-image: url("/img/1v1.PNG"); }
-.two{background-image: url("/img/slope.png")}
-.three{background-image: url("/img/basketball-io.PNG"); }
-.four{background-image: url("/img/drift.PNG");}
-.run{background-image: url("/img/run-3.JPG");}
-.moto{background-image: url(/img/moto-x3m.JPG);}
-.happy{background-image: url(/img/happywheels.PNG);}
-.hole{background-image: url(/img/hole-io.JPG);}
-.eggy{background-image: url(/img/eggycar.JPG);}
-.cookie{background-image: url(/img/Cookie.PNG);}
-.vex{background-image: url(/img/vex-5.JPG); color: black;}
+.one{ background-image: url("img/1v1.PNG"); }
+.two{background-image: url("img/slope.png")}
+.three{background-image: url("img/basketball-io.PNG"); }
+.four{background-image: url("img/drift.PNG");}
+.run{background-image: url("img/run-3.JPG");}
+.moto{background-image: url(img/moto-x3m.JPG);}
+.happy{background-image: url(img/happywheels.PNG);}
+.hole{background-image: url(img/hole-io.JPG);}
+.eggy{background-image: url(img/eggycar.JPG);}
+.cookie{background-image: url(img/Cookie.PNG);}
+.vex{background-image: url(img/vex-5.JPG); color: black;}
 .undertext{color: black;}
-.car{background-image: url(/img/car.avif);}
+.car{background-image: url(img/car.avif);}
 .vex a:hover{font-size: 110%;transition: .5s;}
 .logo{color: white;font-size: 150%;}
 .top{font-size: 150%;color: white;}
