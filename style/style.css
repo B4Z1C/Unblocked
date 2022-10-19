@@ -68,23 +68,7 @@ article:hover{
 }
 
 
-/*.one{ background-image: url("img/1v1.png"); }
-.two{background-image: url("img/slope.png")}
-.three{background-image: url("img/basketball-io.png"); }
-.four{background-image: url("img/drift.png");}
-.run{background-image: url("img/run-3.jpg");}
-.moto{background-image: url(img/moto-x3m.jpg);}
-.happy{background-image: url(img/happywheels.png);}
-.hole{background-image: url(img/hole-io.jpg);}
-.eggy{background-image: url(img/eggycar.jpg);}
-.cookie{background-image: url(img/Cookie.png);}
-.vex{background-image: url(img/vex-5.jpg); color: black;}
-.undertext{color: black;}
-.car{background-image: url(img/car.avif);}
-.vex a:hover{font-size: 110%;transition: .5s;}
-.logo{color: white;font-size: 150%;}
-.top{font-size: 150%;color: white;}
-.select{color: white;}*/
+
 p {color: white;}*
 section{
     height: 68vh;
@@ -125,7 +109,7 @@ a:hover{
 .cookie{background-image: url(img/Cookie.png);}
 .vex{background-image: url(img/vex-5.jpg); color: black;}
 .undertext{color: black;}
-.car{background-image: url(img/car.avif);}
+.car{background-image: url(img/retro.avif);}
 .vex a:hover{font-size: 110%;transition: .5s;}
 .logo{color: white;font-size: 150%;}
 .top{font-size: 150%;color: white;}
