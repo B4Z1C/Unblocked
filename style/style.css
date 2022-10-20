@@ -101,15 +101,17 @@ a:hover{
 .two{background-image: url("img/slope.png")}
 .three{background-image: url("img/basketball-io.png");}
 .four{background-image: url("img/drift.png");}
+.winterx3m{background-image: url("img/winterx3m.avif");}
 .run{background-image: url("img/run-3.jpg");}
 .moto{background-image: url(img/moto-x3m.jpg);}
 .happy{background-image: url(img/happywheels.png);}
+.amongus{background-image: url("img/amogus.jpg");}
 .hole{background-image: url(img/hole-io.jpg);}
 .eggy{background-image: url(img/eggycar.jpg);}
 .cookie{background-image: url(img/Cookie.png);}
 .vex{background-image: url(img/vex-5.jpg); color: black;}
 .undertext{color: black;}
-.car{background-image: url(img/retro.avif);}
+.retro{background-image: url(img/retro.avif);}
 .vex a:hover{font-size: 110%;transition: .5s;}
 .logo{color: white;font-size: 150%;}
 .top{font-size: 150%;color: white;}
