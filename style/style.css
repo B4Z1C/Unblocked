@@ -6,9 +6,18 @@ body{
 }
 
 nav{
-    background: teal;
+    background: transparent;
     height: 80px;
     width: 100%;
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+.sticky + .content {
+    padding-top: 60px;
 }
 
 section{
@@ -38,7 +47,7 @@ label.logo{
 
 nav ul{
     float: right;
-    margin-right: 20px;
+    margin-right: 200px;
 }
 
 nav ul li{
@@ -64,7 +73,7 @@ a.active,a:hover{
 
 article:hover{
     flex: 3;
-    font-size: 150%;
+    font-size: 100%;
 }
 
 
@@ -88,6 +97,8 @@ article{
     transition: 1s;
 }
 
+
+
 article:hover{
     flex: 3;
     font-size: 150%;
@@ -97,18 +108,19 @@ a:hover{
     font-size: 110%;
 }
 
-.one{background-image: url("img/1v1.png");}
-.two{background-image: url("img/slope.png")}
-.three{background-image: url("img/basketball-io.png");}
-.four{background-image: url("img/drift.png");}
-.winterx3m{background-image: url("img/winterx3m.avif");}
-.run{background-image: url("img/run-3.jpg");}
+.one{background-image: url(img/1v1.png);}
+.two{background-image: url(img/slope.png)}
+.three{background-image: url(img/basketball-io.png);}
+.four{background-image: url(img/drift.png);}
+.winterx3m{background-image: url(img/winterx3m.avif);}
+.run{background-image: url(img/run-3.jpg);}
 .moto{background-image: url(img/moto-x3m.jpg);}
 .happy{background-image: url(img/happywheels.png);}
-.amongus{background-image: url("img/amogus.jpg");}
+.amongus{background-image: url(img/amogus.jpg);}
 .hole{background-image: url(img/hole-io.jpg);}
 .eggy{background-image: url(img/eggycar.jpg);}
 .cookie{background-image: url(img/Cookie.png);}
+.slither{background-image: url(img/slither.jpg);}
 .vex{background-image: url(img/vex-5.jpg); color: black;}
 .undertext{color: black;}
 .retro{background-image: url(img/retro.avif);}
